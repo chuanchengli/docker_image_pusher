@@ -1,4 +1,4 @@
-1panel/openresty:1.21.4.3-3-1-focal
-mysql:8.2.0
-halohub/halo-pro:2.16.3
-
+mysql:5.7
+redis
+crediteaseitsec/insight2
+crediteaseitsec/insight2_front
