@@ -1,3 +1,1 @@
-postgres:12.7-alpine
-redis:6.2-alpine
-index.docker.io/faradaysec/faraday
+filebrowser/filebrowser:v2.30.0
