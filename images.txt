@@ -1,1 +1,1 @@
-halohub/halo-pro:2.17.1
+hub.zentao.net/app/zentao:20.0
